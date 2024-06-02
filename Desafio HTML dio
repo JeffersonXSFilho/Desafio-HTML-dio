@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pagina Principal</title>
+    </head>
+    <body>
+        <h1 id="inicio"><i style="color:blue">Esporte Clube Bahia</i></h1>
+        <hr />
+        <h1>Sobre o clube</h1>
+            <ol>
+                <li><a href="#primeiro-campeao">Primeiro campeão brasileiro</a></li>
+                <li><a href="#historia-clube">Historia do clube</a></li>
+                <li><a href="#popularidade">Popularidade do clube</a></li>
+                <li><a href="#titulos">Titulos do clube</a></li>
+            </ol>
+     
+            <h3 id="primeiro-campeao"><u>Primeiro campeão brasileiro</u></h3>
+
+            <p>O Campeonato Brasileiro de Futebol de 1959, originalmente denominado Taça Brasil pela CBD, foi a segunda edição do Campeonato Brasileiro. O Bahia, após vencer o terceiro jogo da final contra o Santos, sagrou-se campeão brasileiro[1] pela primeira vez e, também, conquistou a vaga para ser o representante brasileiro na primeira competição continental sul-americana realizada pela CONMEBOL, a Copa dos Campeões da América (atual Copa Libertadores da América) de 1960.</p>
+           
+            <p>Esta edição contou com a participação de dezesseis campeões estaduais, sendo que os campeões do estado de São Paulo e do Distrito Federal (na época, a cidade do Rio de Janeiro) já entravam na fase final. O campeão Bahia disputou catorze partidas, com nove triunfos, dois empates e três derrotas, 25 gols a favor e 18 contra, tendo seus atacantes Léo Briglia com 8 gols sido o artilheiro da competição e Alencar o terceiro, com 6 gols. Efigênio Bahiense, o Geninho, foi o treinador durante toda a competição, mas quem dirigiu o time na final foi o argentino Carlos Volante.[2] O primeiro gol deste Brasileirão foi de Alencar, do Bahia contra o CSA. A competição teve uma média de público de 10.360 pagantes.[3]</p>
+        
+            <p>Apesar de sua importância, e de seu vencedor ser considerado o <mark>campeão brasileiro</mark> já na época de sua disputa por alguns órgãos de imprensa,[4][1][5] somente em 2010 que o torneio foi reconhecido oficialmente pela CBF como o Campeonato Brasileiro de Futebol de 1959.[6] Dessa forma, esta edição passou a ser considerada a primeira edição do Campeonato Brasileiro. Porém, em agosto de 2023, a CBF reconheceu o Torneio dos Campeões de 1937 como a primeira edição do Brasileirão.</p>            
+                   
+          
+            <h3 id="historia-clube"><u>Historia do clube</u></h3>
+
+                <p>A Taça Brasil foi a segunda competição nacional de clubes de futebol do Brasil a dar ao seu vencedor o título de campeão brasileiro (já na época de sua disputa, o vencedor da Taça Brasil era considerado o campeão brasileiro). Apesar do certame ter sido instituído em 1954 pela CBD (Confederação Brasileira de Desportos, atual CBF) com a finalidade de apontar o clube campeão brasileiro da temporada, e ter seu regulamento definido no ano seguinte, a primeira edição da competição não pôde ser disputada em 1955, como o planejado, devido ao fato do calendário trienal do futebol brasileiro de 1955 a 1958 já estar aprovado e não podendo sofrer alterações por causa da Copa do Mundo de 1958. Sendo assim, ficou definido naquela época que a Taça Brasil começaria somente em 1959.[carece de fontes] Porém, como ainda havia limitação de data, restrições econômicas e dificuldades para viagens interestaduais devido a precariedade da infraestrutura do país na época, a competição foi montada de modo mais econômico possível. Sendo assim, participavam os campeões estaduais que se enfrentavam em um grande sistema eliminatório</p>
+
+                <p>A segunda edição do Campeonato Brasileiro de Futebol foi realizada em 1959 e contou com a participação de dezesseis campeões estaduais do ano anterior. Com os clubes divididos regionalmente, paulistas e cariocas entraram apenas nas semifinais. Na decisão, em uma finalíssima histórica, o Bahia venceu o poderoso Santos de Pelé, considerado por muitos o melhor time de futebol de todos os tempos, em uma série de três partidas. Consagrava-se o Bahia como o primeiro vencedor da Taça Brasil. A conquista também credenciou a equipe como o primeiro representante brasileiro na Copa Libertadores da América.[carece de fontes] Para a equipe, a conquista é tão importante que é lembrada pela presença de uma estrela, do mesmo peso da utilizada pela conquista do Campeonato Brasileiro de 1988, em seu uniforme. Lesionado, Pelé não atuou no último jogo, realizado já em 1960, no dia 29 de março, em função de uma excursão do time ao exterior.</p>
+
+                <p>As críticas à arbitragem não diminuíram a felicidade dos soteropolitanos. Foi realizada uma grande festa em Salvador, encampada politicamente pelo prefeito da cidade, Heitor Dias, que afirmava de forma entusiasmada: "Salvador hoje completa 411 anos de fundação e o melhor presente foi a grande conquista do Esporte Clube Bahia". Como uma volta ao passado, mais uma vez a Bahia rompia a hegemonia de cariocas e paulistas no cenário nacional, uma vez que o estado já havia ganho o Campeonato Brasileiro de Seleções Estaduais, em 1934.</p>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Time_do_Bahia_na_Ta%C3%A7a_Brasil.tif/lossy-page1-300px-Time_do_Bahia_na_Ta%C3%A7a_Brasil.tif.jpg"> 
+      
+            
+             <h3 id="popularidade"><u>Popularidade do clube</u></h3>
+
+                <p>Com pouco mais de 90 anos de existência, o Tricolor da Boa Terra tornou-se um dos clubes mais populares do estado e do Norte-Nordeste e do país, detendo a maior torcida dentre os clubes da sua região e a 9° maior do país, de acordo com o Instituto AtlasIntel, em pesquisa feita no ano de 2024, além de ser um dos clubes do Norte-Nordeste com mais títulos oficiais na história.</p>
+
+                <p>Segundo a empresa Sports Value a marca do clube é a décima quinta de maior valor no Brasil em 2023, ultrapassando os 594 milhões de reais, figurando como a maior do Nordeste.[5]Tem como suas cores oficiais o Azul, o Branco e o Vermelho, em homenagem a bandeira do seu estado de origem, estado, inclusive, que é lembrado no nome do clube, nas cores, no escudo, na bandeira e, também, nas arquibancadas. O mascote tricolor é o Super-Homem, popular personagem da história em quadrinhos.</p>
+
+                <P><strong> Esporte Clube Bahia é um clube desportivo brasileiro de futebol da cidade de Salvador, capital da Bahia. Conhecido simplesmente como Bahia ou pela sigla ECB, foi fundado em 1º de janeiro de 1931 por ex-jogadores do Clube Bahiano de Tênis e a Associação Atlética da Bahia, agremiações que tinham encerrado suas atividades futebolísticas no final da década de 1920.</strong></P>
+
+                <img src="https://i.ytimg.com/vi/bQntBHKrQ8Y/hqdefault.jpg" >
+                <H4>Torcida do Bahia faz mosaico gigante para provocar Vitória e relembra maior goleada do Ba-Vi: ‘Hegemonia’</H4>
+               
+             
+            
+             
+                <h2 id="titulos"><u>Titulos do clube</u>:</h2>
+                <strong>
+                <h4><li>Campeonato Brasileiro: 2
+                    1959 e 1988</li> </h4>  
+                        
+                 <h4><li>Campeonato Baiano: 50
+                    </li></h4>       
+                 
+                 <h4><li>Torneio Norte-Nordeste: 4</li></h4>  
+                 
+                 <h4><li>Torneio Copa do Nordeste: 4</li></h4>  
+
+                 <h4><li>Torneio Inicio do Estadual: 9</li></h4>  
+   
+                 <h4><li>Taça Estado da Bahia: 3</li></h4>  
+   
+                 <small><h4><li>Somando 72 titulos para o clube</li></h4></small>  
+             
+                <h2> <small><a href="#inicio">Voltar para o inicio</a></small> </h2> 
+            </strong> 
+
+        </body>
+</html>
